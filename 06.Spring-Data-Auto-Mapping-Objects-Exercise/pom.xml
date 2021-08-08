@@ -11,7 +11,7 @@
     <groupId>com.example</groupId>
     <artifactId>Spring-Data-Auto-Mapping-Objects-Exercise</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>14.Spring-Data-Auto-Mapping-Objects-Exercise</name>
+    <name>Spring-Data-Auto-Mapping-Objects-Exercise</name>
     <description>Demo project for Spring Boot</description>
     <properties>
         <java.version>16</java.version>

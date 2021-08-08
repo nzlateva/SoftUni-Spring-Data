@@ -8,6 +8,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="08.Hibernate-Code-First-Exercise" />
+        <module name="03.Hibernate-Code-First-Exercise" />
       </profile>
     </annotationProcessing>
   </component>
