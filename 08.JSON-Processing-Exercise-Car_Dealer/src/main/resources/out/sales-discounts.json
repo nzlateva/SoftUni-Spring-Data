@@ -1,0 +1,112 @@
+[
+  {
+    "car": {
+      "make": "Dacia",
+      "model": "Sandero",
+      "travelledDistance": 922337254775807
+    },
+    "customerName": "Jimmy Grossi",
+    "discount": 0.1,
+    "price": 524.06,
+    "priceWithDiscount": 471.654
+  },
+  {
+    "car": {
+      "make": "Toyota",
+      "model": "Prius",
+      "travelledDistance": 922335807
+    },
+    "customerName": "Oren Perlman",
+    "discount": 0.15,
+    "price": 1750.96,
+    "priceWithDiscount": 1488.3160
+  },
+  {
+    "car": {
+      "make": "Dacia",
+      "model": "Logan",
+      "travelledDistance": 213647
+    },
+    "customerName": "Yvonne Mccalla",
+    "discount": 0.3,
+    "price": 862.96,
+    "priceWithDiscount": 604.072
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "C3",
+      "travelledDistance": 214647
+    },
+    "customerName": "Brett Brickley",
+    "discount": 0.15,
+    "price": 226.76,
+    "priceWithDiscount": 192.7460
+  },
+  {
+    "car": {
+      "make": "Seat",
+      "model": "Toledo",
+      "travelledDistance": 2147447
+    },
+    "customerName": "Taina Achenbach",
+    "discount": 0.05,
+    "price": 5622.32,
+    "priceWithDiscount": 5341.2040
+  },
+  {
+    "car": {
+      "make": "Renault",
+      "model": "Alaskan",
+      "travelledDistance": 2647
+    },
+    "customerName": "Hai Everton",
+    "discount": 0.2,
+    "price": 2385.11,
+    "priceWithDiscount": 1908.088
+  },
+  {
+    "car": {
+      "make": "Nissan",
+      "model": "370Z",
+      "travelledDistance": 2143647
+    },
+    "customerName": "Johnette Derryberry",
+    "discount": 0.15,
+    "price": 5587.61,
+    "priceWithDiscount": 4749.4685
+  },
+  {
+    "car": {
+      "make": "Citroen",
+      "model": "Elysée",
+      "travelledDistance": 922354775807
+    },
+    "customerName": "Emmitt Benally",
+    "discount": 0.5,
+    "price": 1603.19,
+    "priceWithDiscount": 801.595
+  },
+  {
+    "car": {
+      "make": "Dacia",
+      "model": "Sandero",
+      "travelledDistance": 2143647
+    },
+    "customerName": "Carole Witman",
+    "discount": 0.3,
+    "price": 285.97,
+    "priceWithDiscount": 200.179
+  },
+  {
+    "car": {
+      "make": "Dacia",
+      "model": "Logan",
+      "travelledDistance": 21474647
+    },
+    "customerName": "Carole Witman",
+    "discount": 0.4,
+    "price": 356.95,
+    "priceWithDiscount": 214.170
+  }
+]
